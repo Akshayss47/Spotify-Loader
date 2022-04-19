@@ -38,10 +38,10 @@ async def get_stats(id):
 # Buttons
 START_BUTTONS=[
     [
-        InlineKeyboardButton("Source", url="https://github.com/X-Gorn/Spotify-Loader"),
-        InlineKeyboardButton("Project Channel", url="https://t.me/xTeamBots"),
+        InlineKeyboardButton("Movies", url="https://t.me/movierequestgroupCU"),
+        InlineKeyboardButton("UPDATE CHANNEL", url="https://t.me/allmovierequestuc"),
     ],
-    [InlineKeyboardButton("Author", url="https://t.me/xgorn")],
+    [InlineKeyboardButton("The Creator", url="https://t.me/ak_akshayss")],
 ]
 
 CB_BUTTONS=[
