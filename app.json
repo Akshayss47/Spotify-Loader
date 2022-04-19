@@ -13,7 +13,7 @@
   ],
   "success_url": "https://github.com/X-Gorn/Spotify-Loader",
   "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/Spotify-Loader",
+  "repository": "https://github.com/Akshayss47/Spotify-Loader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this value from https://t.me/BotFather",
