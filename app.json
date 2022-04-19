@@ -1,5 +1,5 @@
 {
-  "name": "Spotify-Loader",
+  "name": "cu-musicbot",
   "description": "Telegram bot to upload spotify playlist/artist/album/track music file to telegram.",
   "keywords": [
     "telegram",
