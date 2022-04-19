@@ -1,6 +1,8 @@
 ## Spotify-Loader (Bot)
 ---
 
+[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshayss47/Spotify-Loader)
+
 Telegram bot to upload spotify playlist/artist/album/track music file to telegram.
 
 ### Features:
